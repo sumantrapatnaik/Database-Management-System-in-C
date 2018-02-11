@@ -1,0 +1,2 @@
+# Database-Management-System-in-C
+This capstone project has been developed as a course requirement in the course CMPSC 431 (Database Management System) at Penn State University in Fall'17.The project has been individually developed. The project uses C file systems functionalities and builds a relational database management system that processes SQL commands and gives output accordingly for the CRUD operations.
